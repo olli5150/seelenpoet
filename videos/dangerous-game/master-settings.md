@@ -7,6 +7,25 @@
 **Format:** Cinematic Musikvideo, 16:9 Master; wichtige Gesichter, Hände, Geige und Wettschein zusätzlich im mittleren 9:16-Sicherheitsbereich halten.  
 **Schnittprinzip:** Jeder Clip dauert 5–7 Sekunden. Die folgenden Clips sind modular und werden an Gesang, Beat, Instrumentalpausen und tatsächliche Songlänge angepasst.
 
+## Song-Timeline
+
+**MP3-Laufzeit:** 4:15,98. Die Zeitmarken sind aus Laufzeit und Lautheitsverlauf als Schnitt-Arbeitsmarken abgeleitet. Die Abschnittszuordnung ist vorläufig; Gesangs- und Taktgrenzen beim finalen Schnitt gegen die Aufnahme prüfen.
+
+| Abschnitt | Arbeitsmarke | Dauer |
+|---|---:|---:|
+| Intro | 0:00–0:23 | 23 s |
+| 1. Strophe | 0:23–0:58 | 35 s |
+| Refrain 1 | 0:58–1:10 | 12 s |
+| 2. Strophe | 1:10–1:56 | 46 s |
+| Refrain 2 | 1:56–2:16 | 20 s |
+| Instrumentaler Übergang / Break | 2:16–2:26 | 10 s |
+| SinDees Part | 2:26–3:43 | 77 s |
+| Refrain 3 | 3:43–3:55 | 12 s |
+| Wiederholter Schlussrefrain | 3:55–4:13 | 18 s |
+| Outro / Ausklang | 4:13–4:16 | 3 s |
+
+**Schnittplanung:** Bei 5–7 Sekunden pro Cut benötigt ein vollständiges Video dieser Länge ungefähr 37–51 Cuts; bei durchschnittlich 6 Sekunden etwa 43. Der Break von 2:16–2:26 und der Schlussrefrain von 3:43–4:13 sind als getrennte musikalische Abschnitte behandelt. Die letzten Sekunden des Outro können mit dem Ausklang des vorherigen Bildes überblendet werden, damit jeder Clip im gewünschten Längenbereich bleibt.
+
 ## Allgemeine visuelle Einstellungen
 
 - **Look:** Rococo-inspirierte Eleganz trifft auf nassen Cyberpunk-Club und heutige Großstadt. Keine direkte Nachstellung einer bestimmten Verfilmung; eigenständige moderne Interpretation.
